@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin: auto;
+    background-color: antiquewhite;
+}
+#div1, #div2, #div3{
+    display: inline-block;
+    margin: auto;
+    width: 80%;
+    color: aliceblue;
+    border: 3px solid #addd;
+    padding: 10px;
+    text-align: center;
+    background: greenyellow;
+    height: 600px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+}
